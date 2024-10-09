@@ -249,7 +249,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
-.card-testimonial > .card-avatar {
+.card-testimonial  .card-avatar {
     border-radius: 50%;
     width: 10rem;
     height: 10rem;
